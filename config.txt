@@ -1,4 +1,4 @@
-token=NTQ2MjQ3NTc0NzAxNjA0ODY1.D0lccg.1TRDfEJ6cy4lH4vA0i3lsOe8lrc
+token=NTQ2MjQ3NTc0NzAxNjA0ODY1.XTTVoQ.mNRNRG1lhfEaXBExn0WLialHEug
 owner=423028113535008788 
 prefix=a
 game=Type Aplay
